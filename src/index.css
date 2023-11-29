@@ -78,6 +78,26 @@ header,
   width: 220px;
 }
 
+.card-info{
+  display: flex;
+  flex-direction: column;
+  font-size: .8rem;
+  color: rgba(0, 0, 0, 0.679);
+  padding-left: .2rem;
+}
 .card-info i{
   color: #FF385C;
+  margin-right: .2rem;
+}
+
+.lighter-text{
+  color: rgba(0, 0, 0, 0.384);
+}
+
+b{
+  color: black;
+}
+
+.card-info-line{
+  margin-top: .4rem;
 }
